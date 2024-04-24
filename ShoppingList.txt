@@ -1,0 +1,11 @@
+Spożywcze
+	Chleb - 1.0 - bochenek
+	Masło - 1.0 - opakowanie
+	Mleko - 1.0 - karton
+	Żółty ser - 0.5 - kg
+Chemia
+	Mydło - 1.0 - opak.
+	Płyn do mycia naczyń - 1.0 - butelka
+Motoryzacja
+	Odświeżacz powietrza - 1.0 - sztuka
+	Płyn do spryskiwaczy - 3.0 - litry
